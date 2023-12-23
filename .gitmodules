@@ -1,3 +1,6 @@
 [submodule "UltraFastBERT"]
 	path = UltraFastBERT
 	url = https://github.com/pbelcak/UltraFastBERT
+[submodule "fastfeedforward"]
+	path = fastfeedforward
+	url = https://github.com/pbelcak/fastfeedforward
